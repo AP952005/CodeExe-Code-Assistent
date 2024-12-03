@@ -1,9 +1,9 @@
-# SHA Clarifies: AI-Powered Code Assistant
+# Code EXE: AI-Powered Code Assistant
 
 ## 📘 Project Overview
 
 ### 🎯 Mission
-SHA Clarifies is an innovative AI-powered code analysis and execution platform designed to empower developers by providing intelligent insights, bug detection, and code optimization across multiple programming languages.
+CodeExe is an innovative AI-powered code analysis and execution platform designed to empower developers by providing intelligent insights, bug detection, and code optimization across multiple programming languages.
 
 ## 🚀 Project Components
 
@@ -77,7 +77,6 @@ streamlit run app.py
 ### 🔐 Login Credentials
 - Email: `ap@gmail.com`, Password: `12345678`
 - Email: `dd@ap.com`, Password: `12345678`
-- Email: `nandy@ap.com`, Password: `nandy123`
 
 ### 📋 Project Structure
 ```
@@ -101,7 +100,7 @@ sha-clarifies/
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ### 📞 Contact
-- Project Team: SHAClarifies@apsolutions.com
+- Project Team: CodeExe@apsolutions.com
 - Project Link: 
 ```
 
@@ -206,20 +205,10 @@ An AI-powered platform providing:
 - Month 5: Beta Release
 - Month 6: Public Launch
 
-## 🌐 About the Team
-
-### Team Members
+## 🌐 About the Developer
 1. Abishek Palani
    - Role: Team Lead & AI/ML Specialist
    - Expertise: NLP, Machine Learning
-
-2. Harshavardhini
-   - Role: UX Designer & Front-end Developer
-   - Expertise: Intuitive Interface Design
-
-3. Smitha Keren
-   - Role: Full Stack Developer
-   - Expertise: DevOps, Cloud Architecture
 
 ## 📧 Contact Information
 - Email: SHAClarifies@apsolutions.com
